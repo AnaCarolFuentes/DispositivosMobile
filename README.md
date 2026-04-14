@@ -1,7 +1,7 @@
 📱 Android Learning Journey
 Repositório dedicado ao estudo e desenvolvimento de aplicações móveis utilizando Android Studio e tecnologias modernas do ecossistema Google.
 
-Este repositório documenta minha evolução técnica, desde conceitos fundamentais de UI até a implementação de arquiteturas complexas e consumo de APIs. O foco aqui é construir aplicações robustas, escaláveis e com foco na experiência do usuário (UX).
+Este repositório documenta a minha evolução técnica, desde conceitos fundamentais de UI até a implementação de arquiteturas complexas e consumo de APIs. O foco principal é construir aplicações robustas, escaláveis e com foco total na experiência do utilizador (UX).
 
 🚀 Tecnologias e Ferramentas
 Linguagem: Kotlin (Modern Android Development) / Java
@@ -33,7 +33,7 @@ Vá em File > Open e selecione a pasta do projeto desejado.
 
 Aguarde o download das dependências do Gradle.
 
-Execute no Emulador ou em um dispositivo físico.
+Execute no Emulador ou num dispositivo físico.
 
 📈 Objetivos de Estudo (Roadmap)
 [x] Ciclo de vida de Activities e Fragments.
@@ -47,8 +47,8 @@ Execute no Emulador ou em um dispositivo físico.
 [ ] CI/CD básico com GitHub Actions.
 
 📬 Contato
-Se você é recrutador ou desenvolvedor e quer conversar sobre os projetos:
+Se és recrutador ou desenvolvedor e queres conversar sobre os projetos, estou à disposição:
 
-LinkedIn: https://www.linkedin.com/in/ana-carolina-fuentes-ab7694304/
+LinkedIn: Ana Carolina Fuentes
 
 Email: anacarolzinha.fuentes@gmail.com
