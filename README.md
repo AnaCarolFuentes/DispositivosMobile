@@ -1,54 +1,49 @@
-📱 Android Learning Journey
-Repositório dedicado ao estudo e desenvolvimento de aplicações móveis utilizando Android Studio e tecnologias modernas do ecossistema Google.
+# 📱 Android Learning Journey
 
-Este repositório documenta a minha evolução técnica, desde conceitos fundamentais de UI até a implementação de arquiteturas complexas e consumo de APIs. O foco principal é construir aplicações robustas, escaláveis e com foco total na experiência do utilizador (UX).
+Repositório dedicado ao estudo e desenvolvimento de aplicações móveis utilizando **Android Studio** e tecnologias modernas do ecossistema Google.
 
-🚀 Tecnologias e Ferramentas
-Linguagem: Kotlin (Modern Android Development) / Java
+Este repositório documenta minha evolução técnica — desde conceitos fundamentais de UI até a implementação de arquiteturas mais robustas e consumo de APIs.
 
-IDE: Android Studio Panda 3
+🎯 **Objetivo:** construir aplicações **escaláveis, bem estruturadas e com foco total na experiência do usuário (UX)**.
 
-Interface: Jetpack Compose (Declarativa) ou XML View System
+---
 
-Arquitetura: MVVM (Model-View-ViewModel)
+## 🚀 Tecnologias e Ferramentas
 
-Bibliotecas de Terceiros:
+### 💻 Linguagens
+- Kotlin (Modern Android Development)
+- Java
 
-Retrofit/OkHttp: Para chamadas de API.
+### 🛠️ IDE
+- Android Studio (Panda)
 
-Room: Para persistência de dados local (SQLite).
+### 🎨 Interface
+- Jetpack Compose (Declarativo)
+- XML (View System)
 
-Coroutines: Para programação assíncrona.
+### 🧱 Arquitetura
+- MVVM (Model - View - ViewModel)
 
-Dagger Hilt: Para Injeção de Dependência.
+---
 
-🛠️ Como executar os projetos
-Clone este repositório:
+## 📚 Bibliotecas Utilizadas
 
-Bash
-git clone https://github.com/AnaCarolFuentes/DispositivosM-veis.git
-Abra o Android Studio.
+- 🔗 **Retrofit / OkHttp**  
+  → Consumo de APIs REST
 
-Vá em File > Open e selecione a pasta do projeto desejado.
+- 🗄️ **Room**  
+  → Persistência de dados local (SQLite)
 
-Aguarde o download das dependências do Gradle.
+- ⚡ **Coroutines**  
+  → Programação assíncrona
 
-Execute no Emulador ou num dispositivo físico.
+- 🧩 **Dagger Hilt**  
+  → Injeção de dependência
 
-📈 Objetivos de Estudo (Roadmap)
-[x] Ciclo de vida de Activities e Fragments.
+---
 
-[x] Persistência local com Room.
+## 🛠️ Como Executar os Projetos
 
-[ ] Injeção de dependência com Hilt.
+```bash
+git clone https://github.com/AnaCarolFuentes/DispositivosMobile.git
 
-[ ] Testes Unitários e Instrumentados (JUnit/Espresso).
-
-[ ] CI/CD básico com GitHub Actions.
-
-📬 Contato
-Se és recrutador ou desenvolvedor e queres conversar sobre os projetos, estou à disposição:
-
-LinkedIn: Ana Carolina Fuentes
-
-Email: anacarolzinha.fuentes@gmail.com
